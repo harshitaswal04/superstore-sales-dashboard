@@ -208,7 +208,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**  
+**HARSHIT ASWAL**  
 📧 mailto://harshitaswal04@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/harshit-aswal) | [GitHub](https://github.com/harshitaswal04)
 
